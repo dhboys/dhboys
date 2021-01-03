@@ -1,4 +1,8 @@
-### Thanks to Visit ☺
+###     Learn a Java !
+     I have just been learning Java.
+     hope to develop !
+
+
 
 <!--
 **dhboys/dhboys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
