@@ -1,5 +1,5 @@
-###     Learn a Java !
-     I have just been learning Java.
+###     Learn the Java !
+     I have just been learning the Java.
      hope to develop !
 
 
