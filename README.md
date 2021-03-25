@@ -8,7 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhboys&hide=css,scss,html&show_icons=true&theme=radical)](https://github.com/dhboys/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhboys&repo=uploadtest)](https://github.com/dhboys/uploadtest)
 
 
 <!--
