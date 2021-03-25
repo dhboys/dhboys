@@ -6,7 +6,7 @@
 
 ![dongoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhboys&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhboys&hide=css,scss&show_icons=true&theme=radical)](https://github.com/dhboys/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhboys&hide=css,scss,html&show_icons=true&theme=radical)](https://github.com/dhboys/github-readme-stats)
 
 
 <!--
