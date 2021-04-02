@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=white"/>
 
-
+![dongoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhboys&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhboys&hide=css,scss,html&show_icons=true&theme=radical)](https://github.com/dhboys/github-readme-stats)
 
