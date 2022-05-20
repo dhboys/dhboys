@@ -1,5 +1,5 @@
-###     Learn the Java !
-     hope to develop !
+###     Do my best everyday, play it by ear the whole of my life !
+     Let's learn !
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-3766AB?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=white"/>
